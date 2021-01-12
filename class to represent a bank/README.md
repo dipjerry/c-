@@ -9,4 +9,5 @@ Member functions:
         2.To deposit an amount
         3.To withdraw an amount after checking the balance
         4.To display name and balance.
+        
 Write a main program to test the class. Modify the program for handling 10 customers.
